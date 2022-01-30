@@ -71,6 +71,7 @@ img {
   background-position: 50% 50%;
   height: 500px;
   border-radius: 10px;
+  margin-left: 10px;
   box-shadow: 5px 10px #888888;
 }
 
@@ -118,9 +119,9 @@ img:hover {
 /* Fading animation */
 .fade {
   -webkit-animation-name: fade;
-  -webkit-animation-duration: 6s;
+  -webkit-animation-duration: 8s;
   animation-name: fade;
-  animation-duration: 6s;
+  animation-duration: 8s;
 }
 @-webkit-keyframes fade {
   from {
@@ -164,6 +165,7 @@ img:hover {
     border: 0 auto;
     margin-right: 0;
     width: 100%;
+    margin-left:0;
   }
 
   #reflection {
