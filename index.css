@@ -119,9 +119,9 @@ img:hover {
 /* Fading animation */
 .fade {
   -webkit-animation-name: fade;
-  -webkit-animation-duration: 8s;
+  -webkit-animation-duration: 15s;
   animation-name: fade;
-  animation-duration: 8s;
+  animation-duration: 15s;
 }
 @-webkit-keyframes fade {
   from {
